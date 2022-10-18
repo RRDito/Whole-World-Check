@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: b8ea9fb5892e4e443a8e3cc01e38530c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - chesspiece: {instanceID: 0}
+  - FlagUS: {fileID: 21300000, guid: 22fc88903dbacf84095453879e711563, type: 3}
+  - FlagBritain: {fileID: 21300000, guid: 602c1aa52fc951d4fa88eca70ddcfa8c, type: 3}
+  - FlagChina: {fileID: 21300000, guid: 448d3c2591a3db34899d380f7f56ef44, type: 3}
+  - FlagGermany: {fileID: 21300000, guid: 61323c7196c02054fbdd22a9c0262e0b, type: 3}
+  - FlagRussia: {fileID: 21300000, guid: 4db01798d04ee0f4083c8e091a33a3c4, type: 3}
+  - FlagJapan: {fileID: 21300000, guid: b696cba52a050f743a008e3c8f9958fc, type: 3}
+  - FlagItaly: {fileID: 21300000, guid: 9a14521eb74eaff489e2dc607dee8127, type: 3}
+  - FlagFrance: {fileID: 21300000, guid: 14ca14c39fbd1634ebe0dec936d66704, type: 3}
+  - WFlag: {fileID: 7071809353300166448, guid: 1ccb4e86e85411948a153f01d6d5616d, type: 3}
+  - BFlag: {fileID: 4367538755647851796, guid: 7f2001571008e5445820e564275545a6, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

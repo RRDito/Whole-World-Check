@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: ef92393d9e6d1eb489eb6775af7e8376
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - PerkOneIcon: {instanceID: 0}
+  - PerkTwoIcon: {instanceID: 0}
+  - King: {instanceID: 0}
+  - Queen: {instanceID: 0}
+  - Knight: {instanceID: 0}
+  - Pawn: {instanceID: 0}
+  - Bishop: {instanceID: 0}
+  - Rook: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
